@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582603051 source:u:\autorecover\git\first project\main.c
+	<stdio.h>
+	<stdlib.h>
+
